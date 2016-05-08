@@ -13,8 +13,8 @@ android {
     buildToolsVersion "23.0.3"
     defaultConfig {
         applicationId "com.example.jacob.test"
-        minSdkVersion 23
-        targetSdkVersion 23
+        minSdkVersion 9
+        targetSdkVersion 9
         versionCode 1
         versionName "1.0"
     }
